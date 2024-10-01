@@ -1,0 +1,21 @@
+[    1.311694] vmwgfx 0000:00:02.0: [drm] *ERROR* vmwgfx seems to be running on an unsupported hypervisor.
+[    1.311694] vmwgfx 0000:00:02.0: [drm] *ERROR* This configuration is likely broken.
+[    1.311694] vmwgfx 0000:00:02.0: [drm] *ERROR* Please switch to a supported graphics device to avoid problems.
+[   12.405791] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+[   12.405791] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+[   42.301773] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+[   42.301773] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+[   42.351295] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+[   42.351612] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+[   44.123877] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+[   44.123877] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+[   83.435048] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+[   83.435048] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+[   83.447150] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+[   83.447150] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+[  111.987474] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+[  111.987474] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+[  148.590971] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+[  148.590971] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+
+[   14.644471] lightdm-gtk-gre[2347]: segfault at 10 ip 00007808a4a404c4 sp 00007ffe5681c348 error 4 in libcairo.so.2.11802.2[674c4,7808a49e7000+eb000] likely on CPU 6 (core 6, socket 0)
